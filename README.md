@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kanchisupriya
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on doing projects on Full Stack
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate for doing projects on Full Stack
+- 📫 How to reach me ....kanchisupriya22@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
