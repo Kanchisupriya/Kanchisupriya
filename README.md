@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @Kanchisupriya
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate for doing projects on Full Stack
-- 📫 How to reach me ....kanchisupriya22@gmail.com
-- 😄 Pronouns: she/her
+# Hi, I'm Kanchi Supriya 👋
+Automation & AI Enthusiast | MERN Stack Developer
 
-<!---
-Kanchisupriya/Kanchisupriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I build smart web apps and automation workflows that simplify tasks and enhance productivity.
+
+---
+
+## 🛠 Tech Skills
+**Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, MySQL  
+**Automation & AI:** Make.com, Google Gemini AI 
+**Tools & Others:** Git, GitHub, VS Code, Canva
+
+---
+
+## 🌟 Featured Projects
+
+### [Resume Checker Agent](https://github.com/Kanchisupriya/Resume_Checker)
+AI-powered workflow using Make.com that analyzes resumes for ATS and recruiter optimization.  
+
+---
+
+## 🤝 Let’s Connect
+- **LinkedIn**:[https://www.linkedin.com/in/supriya-kanchi-73b1012a1/]  
+- **Portfolio / Website:** [https://kanchisupriya.github.io/Portfolio_updated/]  
+- **Email:** kanchisupriya22@gmail.com  
+
+---
+
+> "Building smarter solutions, one workflow at a time ✨"
