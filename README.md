@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="www.linkedin.com/in/supriya-kanchi-73b1012a1">
+  <a href="https://www.linkedin.com/in/supriya-kanchi-73b1012a1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
