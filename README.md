@@ -11,14 +11,22 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    🔭 I’m an enthusiastic fresher interested in IT roles such as Software Engineer, Associate Software Engineer, and Data Analyst. <br/>
-    💻 I’m currently working on web development projects using React.js and have basic knowledge of Node.js. <br/>
-    🧠 I have skills in HTML, CSS, JavaScript, Python, and SQL with a strong foundation in programming and problem-solving. <br/>
-    👯 I’m looking to collaborate on beginner-friendly projects and open-source contributions. <br/>
-    🤝 I’m focused on improving my backend development, coding skills, and data handling abilities. <br/>
-    🌱 I’m currently learning advanced JavaScript, React, backend technologies, and exploring data analytics concepts. <br/>
-    💬 Ask me about web development, JavaScript, React, Python, and basic data analysis. <br/>
-    ⚡ Fun fact: I enjoy building user-friendly applications and solving real-world problems. <br/>
+    🔭 I’m a final-year B.Tech (CSE - Cyber Security) student and MERN Stack Developer seeking entry-level roles such as Software Engineer or Associate Software Engineer. </br>
+
+💻 I have hands-on experience building full-stack applications and AI-driven automation projects, including an AI Resume Checker Agent and CommitSense AI using OpenAI API, Make.com, and REST APIs.</br>
+
+🧠 I am skilled in Python, C, HTML, CSS, JavaScript, and MySQL, with a strong foundation in problem-solving and scalable application development.<br/>
+
+⚙️ I have practical experience in MERN stack development, RESTful API design, and workflow automation using RPA tools like Make.com.<br/>
+
+👯 I’m interested in collaborating on real-world projects, especially in full-stack development, automation, and AI-based applications.<br/>
+
+🌱 Currently, I am enhancing my backend development skills, advanced JavaScript concepts, and exploring data-driven and AI-integrated systems.<br/>
+
+💬 Ask me about MERN stack, REST APIs, Python projects, automation workflows, and web development.<br/>
+
+⚡ I enjoy building efficient, scalable, and user-focused applications that solve real-world problems.<br/>
+
   </p>
 
   <p>
@@ -31,10 +39,6 @@
 <p align="left">
   <a href="https://github.com/Kanchisupriya">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/supriya-kanchi-73b1012a1/">
